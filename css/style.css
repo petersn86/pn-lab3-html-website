@@ -128,3 +128,31 @@ header a:hover{
     width: 250 px;
 
 }
+
+/*boxes*/
+
+#boxes{
+    margin-top: 20px;
+}
+
+#boxes .box{
+    float:left;
+    width:30%;
+    text-align:center;
+    padding: 10px;
+    
+}
+
+#boxes .box img{
+    width: 90px;
+
+}
+
+#footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #e8491d;
+    text-align: center;
+
+}
