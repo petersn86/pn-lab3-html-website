@@ -78,5 +78,5 @@ header a:hover{
 
 #showcase{
     min-height: 1000px;
-    background: url('.../img/cool-dog-breeds.jpeg') no repeat;
+    background: url('./img/dog_showcase.jpeg') no repeat;
 }
